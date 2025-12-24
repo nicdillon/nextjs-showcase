@@ -1,0 +1,20 @@
+# Next.js Showcase
+
+## Summary
+This site will serve as a showcase for the latest Next.js features. It will be developed with best practices that can be used by 
+other teams and developers to ensure their own apps are performant and cost effecient. The site will utilize Vercel infrastructure. 
+
+## Plan
+### Client | Server Boundary
+Which components should be client rendered and which should be server rendered? How do we 
+### Partial Pre-Rendering (Dynamic | Static Content)
+Which components should be dynamic and which should be static? How can I interweave the two? 
+
+### Incremental Static Revalidation
+Why should I use ISR? What's the optimal use of ISR? What do I do when my site has a very high cardinality (lots of dynamic slugs leading to thousands or millions of pages)?
+### Run Time Cache
+### Private Cache
+
+## Questions to Address
+- What's the most optimal way to use ISR? 
+- 
